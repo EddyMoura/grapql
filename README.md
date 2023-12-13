@@ -13,7 +13,6 @@ The course covers the following topics:
 * Data types in GraphQL
 * Querying in GraphQL
 * Mutations in GraphQL
-* Subscriptions in GraphQL
 
 **Links**
 
